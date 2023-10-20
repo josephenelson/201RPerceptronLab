@@ -1,6 +1,6 @@
 @relation dataset1
 @attribute index real
-@attribute name string
+@attribute name real
 @attribute gp real
 @attribute min real
 @attribute pts real
